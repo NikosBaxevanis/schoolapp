@@ -31,5 +31,6 @@ public class TeacherValidator <T>{
         }
 
         //for all form fields, we need validation for whitespaces
+        return errors;
     }
 }
